@@ -1,0 +1,86 @@
+.StyledLocked{
+  font-size: 1.5em;
+  text-align: left;
+  color: grey;
+  height: auto;
+}
+
+.StyledUnlocked{
+  font-size: 1.5em;
+  text-align: left;
+  color: black;
+  height: auto;
+}
+
+.Completed{
+  font-size: 1.5em;
+  text-align: left;
+  color: black;
+  height: 80px;
+  text-decoration: line-through;
+}
+
+.hr{
+  width: 500px;
+  background-color: grey;
+  height: 1px;
+  border-top: .5px grey;
+  margin-bottom: 15px;
+  margin-top: 0px;
+}
+
+.Checkbox {
+  padding-right: 20px;
+  padding-left: 10px;
+}
+
+.LockedImg{
+  padding-right: 29px;
+  padding-left: 10px;
+}
+
+.Card{
+  font-size: 1.5em;
+  text-align: left;
+  color: black;
+  height: 80px;
+
+}
+.Description{
+  font-size: .7em;
+  color: grey;
+  text-align: left;
+  margin-left: 35px;
+
+}
+
+.DefaultSVG{
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+.ListTopBar{
+  font-size: 2em;
+  text-align: left;
+  color: black;
+  height: 80px;
+
+
+}
+
+.ReturnView{
+  font-size: 1em;
+  padding-left: 50px;
+  color: blue;
+
+}
+
+.ToDoList{
+  position: absolute;
+}
+
+.TopDefault{
+   color: black;
+   text-align: left;
+   padding-left: 10px;
+}
